@@ -19,10 +19,12 @@ Responsive Design: Adapts seamlessly to various screen sizes and devices.
 Interactive Elements: Engaging JavaScript features for a dynamic user experience.
 Modern Layout: Clean, minimalistic design for a professional look.
 Project Highlights: Detailed showcases of my projects and skills.
+
 ## 🛠️ Technologies Used
 HTML: Structuring the core content and layout.
 CSS: Styling and responsive design implementation.
 JavaScript: Adding interactivity and dynamic functionalities.
+
 ## 🔧 Installation
 To view the project locally, follow these steps:
 
@@ -30,7 +32,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/Shubzz8/portfolio-website.git](https://github.com/ShubzzB/CODESOFT/tree/main/portfolio)
+git clone [https://github.com/ShubzzB/portfolio-website.git](https://github.com/ShubzzB/CODESOFT/tree/main/portfolio)
 Navigate to the project directory:
 
 bash
@@ -43,9 +45,6 @@ Check out the live version of my portfolio at your-live-site-link. Dive in to ex
 
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request. Make sure your changes adhere to the project's coding standards and include a clear description.
-
-## 📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 📧 Contact
 Have questions or feedback? Feel free to reach out to me at shubhambelure8480@gmail.com.
